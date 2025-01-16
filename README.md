@@ -1,16 +1,51 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7A2299&height=120&section=header" alt="header"/>
 
-<!--
-**funktasthic/funktasthic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2000&pause=1000&color=7A2299&center=true&vCenter=true&width=800&lines=I'm+Funktasthic;Welcome+everyone+to+my+personal+profile!" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=funktasthic&label=Funktasthic's%20profile%20views&color=7A2299&style=flat" alt="profile-views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/funktasthic/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://instagram.com/ignacio.avr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" alt="instagram" /></a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ignacioavendanoramirez@gmail.com-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" alt="gmail"/>&nbsp;
+</p>
+
+## 👨‍💻 About Me
+
+<p align="center">
+I'm a student at the Universidad Católica del Norte, majoring in Civil Engineering in Computing and Informatics. I'm interested in software development, infrastructure, software architecture and data science.
+</p>
+
+## 📜 Language Tools
+
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <h3>Programming Languages</h3>
+                <img src="https://skillicons.dev/icons?i=js,ts,cs,python&perline=2" />
+            </td>
+            <td align="center">
+                <h3>Frontend Development</h3>
+                <img src="https://skillicons.dev/icons?i=angular,react&perline=2" />
+            </td>
+            <td align="center">
+                <h3>Backend Development</h3>
+                <img src="https://skillicons.dev/icons?i=express,dotnet,nodejs,laravel&perline=2" />
+            </td>
+            <td align="center">
+                <h3>Databases & Tools</h3>
+                <img src="https://skillicons.dev/icons?i=sqlite,mysql,postman,vscode&perline=2" />
+            </td>
+        </tr>
+    </table>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7A2299&height=120&section=footer" alt="footer"/>
