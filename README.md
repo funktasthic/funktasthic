@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000435&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6685cd&height=120&section=header" alt="header"/>
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2000&pause=1000&color=6685cd&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ignacio;Welcome+everyone+to+my+personal+profile!" alt="Typing SVG" /></a>
@@ -48,4 +48,4 @@ I'm a student at the Universidad Católica del Norte, majoring in Civil Engineer
     </table>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000435&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6685cd&height=120&section=footer" alt="footer"/>
