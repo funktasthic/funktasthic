@@ -34,7 +34,7 @@ I'm a student at the Universidad Católica del Norte, majoring in Civil Engineer
             </td>
             <td align="center">
                 <h3>Frontend Development</h3>
-                <img src="https://skillicons.dev/icons?i=angular,react&perline=2" />
+                <img src="https://skillicons.dev/icons?i=angular,react,nextjs&perline=3" />
             </td>
             <td align="center">
                 <h3>Backend Development</h3>
