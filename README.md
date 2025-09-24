@@ -41,12 +41,12 @@ I'm a student at the Universidad Católica del Norte, majoring in Civil Engineer
                 <img src="https://skillicons.dev/icons?i=express,dotnet,nodejs&perline=3" />
             </td>
             <td align="center">
-                <h3>Database</h3>
+                <h3>Databases</h3>
                 <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb&perline=2" />
             </td>
             <td align="center">
-                <h3>Cloud & Tools</h3>
-                <img src="https://skillicons.dev/icons?i=aws,postman,vscode&perline=3" />
+                <h3>Cloud</h3>
+                <img src="https://skillicons.dev/icons?i=docker,supabase&perline=2" />
             </td>
         </tr>
     </table>
