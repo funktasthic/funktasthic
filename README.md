@@ -38,7 +38,7 @@ I'm a student at the Universidad Católica del Norte, majoring in Civil Engineer
             </td>
             <td align="center">
                 <h3>Databases & Cloud</h3>
-                <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb, docker,supabase&perline=3" />
+                <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb,docker,supabase&perline=3" />
             </td>
         </tr>
     </table>
