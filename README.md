@@ -30,7 +30,7 @@ I'm a student at the Universidad Católica del Norte, majoring in Civil Engineer
         <tr>
             <td align="center">
                 <h3>Programming Languages</h3>
-                <img src="https://skillicons.dev/icons?i=js,ts,cs,python&perline=2" />
+                <img src="https://skillicons.dev/icons?i=js,ts,cs&perline=3" />
             </td>
             <td align="center">
                 <h3>Frontend Development</h3>
@@ -38,11 +38,11 @@ I'm a student at the Universidad Católica del Norte, majoring in Civil Engineer
             </td>
             <td align="center">
                 <h3>Backend Development</h3>
-                <img src="https://skillicons.dev/icons?i=express,dotnet,nodejs,laravel&perline=2" />
+                <img src="https://skillicons.dev/icons?i=express,dotnet,nodejs&perline=3" />
             </td>
             <td align="center">
                 <h3>Databases & Tools</h3>
-                <img src="https://skillicons.dev/icons?i=sqlite,mysql,postman,vscode&perline=2" />
+                <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,postman,vscode&perline=2" />
             </td>
         </tr>
     </table>
