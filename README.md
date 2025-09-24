@@ -42,11 +42,11 @@ I'm a student at the Universidad Católica del Norte, majoring in Civil Engineer
             </td>
             <td align="center">
                 <h3>Database</h3>
-                <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql&perline=3" />
+                <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb&perline=2" />
             </td>
             <td align="center">
                 <h3>Cloud & Tools</h3>
-                <img src="https://skillicons.dev/icons?i=aws,render,postman,vscode&perline=2" />
+                <img src="https://skillicons.dev/icons?i=aws,postman,vscode&perline=3" />
             </td>
         </tr>
     </table>
