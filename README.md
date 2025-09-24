@@ -29,10 +29,6 @@ I'm a student at the Universidad Católica del Norte, majoring in Civil Engineer
     <table>
         <tr>
             <td align="center">
-                <h3>Programming Languages</h3>
-                <img src="https://skillicons.dev/icons?i=js,ts,cs&perline=3" />
-            </td>
-            <td align="center">
                 <h3>Frontend Development</h3>
                 <img src="https://skillicons.dev/icons?i=angular,react,nextjs&perline=3" />
             </td>
@@ -41,12 +37,8 @@ I'm a student at the Universidad Católica del Norte, majoring in Civil Engineer
                 <img src="https://skillicons.dev/icons?i=express,dotnet,nodejs&perline=3" />
             </td>
             <td align="center">
-                <h3>Databases</h3>
-                <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb&perline=2" />
-            </td>
-            <td align="center">
-                <h3>Cloud</h3>
-                <img src="https://skillicons.dev/icons?i=docker,supabase&perline=2" />
+                <h3>Databases & Cloud</h3>
+                <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb, docker,supabase&perline=3" />
             </td>
         </tr>
     </table>
