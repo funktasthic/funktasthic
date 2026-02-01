@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header" alt="header"/>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=32&duration=3000&pause=1000&color=6685cd&center=true&vCenter=true&width=800&lines=Hola,+Soy+Ignacio+Avendaño;Data+Analytics+|+Data+Engineering" alt="Typing SVG" /></a>
+    <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=800&border=false&cursorStyle=blank&lines=%5B%7B%22text%22%3A%22Hola%2C+Soy+Ignacio+Avenda%C3%B1o+%F0%9F%91%8B%22%2C%22font%22%3A%22Roboto+Mono%22%2C%22color%22%3A%22%232e5bff%22%2C%22fontSize%22%3A32%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.01%2C%22fontWeight%22%3A%22800%22%7D%2C%7B%22text%22%3A%22Data+Analytics+and+Data+Engineering%22%2C%22font%22%3A%22Roboto+Mono%22%2C%22color%22%3A%22%23a2b6ca%22%2C%22fontSize%22%3A32%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.01%2C%22fontWeight%22%3A%22800%22%7D%5D" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
