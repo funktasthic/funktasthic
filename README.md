@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=800&size=35&duration=3000&pause=1000&color=2E5BFF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Ignacio+Avendaño+👋;Data+Analytics+%26+Data+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?weight=800&size=35&duration=3000&pause=1000&color=2E5BFF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Ignacio+Avendaño+👋;Data+Analytics+%26+Data+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,26 +14,24 @@
   <a href="mailto:ignacioavendanoramirez@gmail.com">
     <img src="https://img.shields.io/badge/Email-2E5BFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://linkedin.com/in/ignacioavr">
     <img src="https://img.shields.io/badge/LinkedIn-2E5BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<h2 style="font-family: 'Roboto Mono', monospace; color: #2E5BFF; font-weight: 800;">👨‍💻 Perfil Profesional</h2>
+## 👨‍💻 Perfil Profesional
 
-<p align="left" style="font-family: 'Roboto Mono', monospace; font-weight: 400; line-height: 1.6;">
-Ingeniero Civil en Computación e Informática. Cuento con las habilidades para transformar datos en activos estratégicos, optimizando la toma de decisiones mediante soluciones técnicas en <span style="font-weight: 600;">Analytics, Data Engineering y BI</span> sobre infraestructura Cloud.
-</p>
+Ingeniero Civil en Computación e Informática. Cuento con las habilidades para transformar datos en activos estratégicos, optimizando la toma de decisiones mediante soluciones técnicas en **Analytics, Data Engineering y BI** sobre infraestructura Cloud.
 
-<h2 style="font-family: 'Roboto Mono', monospace; color: #2E5BFF; font-weight: 800;">🛠️ Tecnologías</h2>
+## 🛠️ Tecnologías
 
 <div align="center">
-<table border="1" style="border-collapse: collapse; border: 1px solid #1E40AF; font-family: 'Roboto Mono', monospace;">
+<table border="1" style="border-collapse: collapse; border: 1px solid #1E40AF;">
   <tr>
-    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px; font-weight: 700; font-size: 16px;">Analytics & BI</th>
-    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px; font-weight: 700; font-size: 16px;">Bases de Datos</th>
-    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px; font-weight: 700; font-size: 16px;">Programación</th>
-    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px; font-weight: 700; font-size: 16px;">Cloud & Ops</th>
+    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px;">Analytics & BI</th>
+    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px;">Bases de Datos</th>
+    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px;">Programación</th>
+    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px;">Cloud & Ops</th>
   </tr>
   <tr>
     <td align="center" valign="top" style="padding: 10px;">
@@ -58,10 +56,4 @@ Ingeniero Civil en Computación e Informática. Cuento con las habilidades para 
       <br>
       <img src="https://img.shields.io/badge/AWS-2E5BFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/GCP-2E5BFF?style=for-the-badge&logo=googlecloud&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-2E5BFF?style=for-the-badge&logo=docker&logoColor=white" /><br>&nbsp;
-    </td>
-  </tr>
-</table>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer" alt="footer"/>
+      <img src="https://img.shields.io/badge/Docker-2E5BFF?style=for
