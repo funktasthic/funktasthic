@@ -21,40 +21,40 @@
 
 <h2 style="font-family: 'Roboto Mono', monospace; color: #2E5BFF; font-weight: 800;">👨‍💻 Perfil Profesional</h2>
 
-<p align="left" style="font-family: 'Roboto Mono', monospace; font-weight: 400; line-height: 1.6; color: #ABB2BF;">
-Ingeniero Civil en Computación e Informática. Cuento con las habilidades para transformar datos en activos estratégicos, optimizando la toma de decisiones mediante soluciones técnicas en <span style="font-weight: 600; color: #4169E1;">Analytics, Data Engineering y BI</span> sobre infraestructura Cloud.
+<p align="left" style="font-family: 'Roboto Mono', monospace; font-weight: 400; line-height: 1.6;">
+Ingeniero Civil en Computación e Informática. Cuento con las habilidades para transformar datos en activos estratégicos, optimizando la toma de decisiones mediante soluciones técnicas en <span style="font-weight: 600;">Analytics, Data Engineering y BI</span> sobre infraestructura Cloud.
 </p>
 
 <h2 style="font-family: 'Roboto Mono', monospace; color: #2E5BFF; font-weight: 800;">🛠️ Tecnologías</h2>
 
 <div align="center">
-<table border="1" style="border-collapse: collapse; border: 1px solid #1E40AF; font-family: 'Roboto Mono', monospace; background-color: #0D1117;">
+<table border="1" style="border-collapse: collapse; border: 1px solid #1E40AF; font-family: 'Roboto Mono', monospace;">
   <tr>
-    <th bgcolor="#001220" align="center" width="220" style="color: #4169E1; padding: 12px; font-weight: 700; font-size: 16px; border: 1px solid #1E40AF;">Analytics & BI</th>
-    <th bgcolor="#001220" align="center" width="220" style="color: #4169E1; padding: 12px; font-weight: 700; font-size: 16px; border: 1px solid #1E40AF;">Bases de Datos</th>
-    <th bgcolor="#001220" align="center" width="220" style="color: #4169E1; padding: 12px; font-weight: 700; font-size: 16px; border: 1px solid #1E40AF;">Programación</th>
-    <th bgcolor="#001220" align="center" width="220" style="color: #4169E1; padding: 12px; font-weight: 700; font-size: 16px; border: 1px solid #1E40AF;">Cloud & Ops</th>
+    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px; font-weight: 700; font-size: 16px;">Analytics & BI</th>
+    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px; font-weight: 700; font-size: 16px;">Bases de Datos</th>
+    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px; font-weight: 700; font-size: 16px;">Programación</th>
+    <th bgcolor="#001F3F" align="center" width="220" style="color: white; padding: 12px; font-weight: 700; font-size: 16px;">Cloud & Ops</th>
   </tr>
   <tr>
-    <td align="center" valign="top" style="padding: 10px; border: 1px solid #1E40AF;">
+    <td align="center" valign="top" style="padding: 10px;">
       <br>
       <img src="https://img.shields.io/badge/Power_BI-2E5BFF?style=for-the-badge&logo=powerbi&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Looker-2E5BFF?style=for-the-badge&logo=looker&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Excel-2E5BFF?style=for-the-badge&logo=microsoftexcel&logoColor=white" /><br>&nbsp;
     </td>
-    <td align="center" valign="top" style="padding: 10px; border: 1px solid #1E40AF;">
+    <td align="center" valign="top" style="padding: 10px;">
       <br>
       <img src="https://img.shields.io/badge/MySQL-2E5BFF?style=for-the-badge&logo=mysql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/SQL_Server-2E5BFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PostgreSQL-2E5BFF?style=for-the-badge&logo=postgresql&logoColor=white" /><br>&nbsp;
     </td>
-    <td align="center" valign="top" style="padding: 10px; border: 1px solid #1E40AF;">
+    <td align="center" valign="top" style="padding: 10px;">
       <br>
       <img src="https://img.shields.io/badge/Python-2E5BFF?style=for-the-badge&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Pandas-2E5BFF?style=for-the-badge&logo=pandas&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/NumPy-2E5BFF?style=for-the-badge&logo=numpy&logoColor=white" /><br>&nbsp;
     </td>
-    <td align="center" valign="top" style="padding: 10px; border: 1px solid #1E40AF;">
+    <td align="center" valign="top" style="padding: 10px;">
       <br>
       <img src="https://img.shields.io/badge/AWS-2E5BFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/GCP-2E5BFF?style=for-the-badge&logo=googlecloud&logoColor=white" /><br>
