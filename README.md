@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=funktasthic&label=VISITAS+AL+PERFIL&color=2E5BFF&style=flat-square" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=funktasthic&label=VISITAS+AL+PERFIL&color=2E5BFF&style=for-the-badge" alt="Visitas" />
 </p>
 
 <p align="center">
