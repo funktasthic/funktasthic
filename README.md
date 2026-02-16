@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=funktasthic&label=VISITAS+AL+PERFIL&color=2E5BFF&style=for-the-badge" alt="Visitas" />
-</p>
-
-<p align="center">
-  <strong>Correo:</strong> <a href="mailto:ignacioavendanoramirez@gmail.com">ignacioavendanoramirez@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ignacioavr">Perfil de LinkedIn</a>
+  <a href="https://linkedin.com/in/ignacioavr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ignacioavendanoramirez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ## 👨‍💻 Perfil Profesional
@@ -43,7 +45,7 @@
     <td align="center" valign="middle">
       <br>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql&theme=light" /><br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb&theme=dark" />
       <br>&nbsp;
     </td>
     <td align="center" valign="middle">
