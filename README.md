@@ -15,7 +15,7 @@
 
 <br>
 
-Software Engineer enfocado en Backend. Transformo problemas complejos en soluciones de software que aportan valor real y simplifican la vida de las personas con Python y PHP. Me motiva diseñar sistemas útiles, escalables y fáciles de mantener. Cuando no estoy programando, me encuentras jugando ajedrez o tocando la guitarra 🎸. Me apasiona la música y los desafíos que me motiven a pensar más allá.
+Software Engineer enfocado en Backend. Transformo problemas complejos en soluciones que aportan valor real y simplifican la vida de las personas con Python y PHP. Me motiva diseñar sistemas útiles, escalables y fáciles de mantener. Cuando no estoy programando, me encuentras jugando ajedrez o tocando la guitarra 🎸. Me apasiona la música y los desafíos que me motiven a pensar más allá.
 
 ### Lenguajes
 <p align="left">
