@@ -8,18 +8,20 @@
 
 **Software Engineer** enfocado en Backend. Transformo problemas complejos en soluciones que aportan valor real y simplifican la vida de las personas con **Python** y **PHP**. Me motiva diseñar sistemas útiles, escalables y fáciles de mantener. Cuando no estoy programando, me encuentras jugando ajedrez o tocando la guitarra 🎸. Me apasiona la música y los desafíos que me motiven a pensar más allá.
 
-### Lenguajes y Frameworks
+<h3 align="center">Lenguajes y Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,ts,js,django,laravel,react,nextjs&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,php,ts,js&theme=light" alt="Lenguajes" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=django,laravel,react,nextjs&theme=light" alt="Frameworks" />
 </p>
 
-### Herramientas
+<h3 align="center">Herramientas</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,docker,aws,postman&theme=light" alt="Tools" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light" alt="SQL Server" />
 </p>
 
-### ¿Hablemos? Contáctame por acá
+<h3 align="center">¿Hablemos? Contáctame por acá</h3>
 <p align="center">
   <a href="https://linkedin.com/in/ignacioavr"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" /></a>
   <a href="mailto:ignacioavendanoramirez@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" /></a>
