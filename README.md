@@ -6,19 +6,19 @@
   </a>
 </div>
 
-**Software Engineer** enfocado en Backend. Transformo problemas complejos en soluciones que aportan valor real y simplifican la vida de las personas con **Python** y **PHP**. Me motiva diseñar sistemas útiles, escalables y fáciles de mantener. Cuando no estoy programando, me encuentras jugando ajedrez o tocando la guitarra 🎸. Me apasiona la música y los desafíos que me motiven a pensar más allá.
+**Software Engineer** enfocado en Backend. Transformo problemas complejos en soluciones que aportan valor real y simplifican la vida de las personas con **.NET Core** y **Python**. Me motiva diseñar sistemas útiles, escalables y fáciles de mantener. Cuando no estoy programando, me encuentras leyendo comics o tocando la guitarra 🎸. Me apasionan los desafíos que me motiven a pensar más allá.
 
 <h3 align="center">Lenguajes y Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,ts,js&theme=light" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=cs,py,ts,js&theme=dark" alt="Lenguajes" />
   <br>
-  <img src="https://skillicons.dev/icons?i=django,laravel,react,nextjs&theme=light" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,django,nextjs,react&theme=dark" alt="Frameworks" />
 </p>
 
 <h3 align="center">Herramientas</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,docker,aws,postman&theme=light" alt="Tools" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=light" alt="SQL Server" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,azure,postman&theme=dark" alt="Tools" />
 </p>
 
 <h3 align="center">¿Hablemos? Contáctame por acá</h3>
